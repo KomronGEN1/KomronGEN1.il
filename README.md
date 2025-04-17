@@ -1,2 +1,2 @@
-# KomronGEN1.github.il
+# KomronGEN1.io
 Artificial Intelligence 
